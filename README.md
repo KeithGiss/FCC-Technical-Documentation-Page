@@ -1,6 +1,13 @@
 # FCC-Technical-Documentation-Page
 FCC Responsive Web Design Project #4
 Build a Technical Documentation Page
+This is a Technical Documention Page.
+
+It makes up the fourth part of my FCC coding portfolio.
+
+You can see this project live at the following URL:
+
+https://keithgiss.github.io/FCC-Product-Landing-Page/
 
 Objective: Build a CodePen.io app that is functionally similar to this: https://codepen.io/freeCodeCamp/full/NdrKKL.
 
